@@ -39,7 +39,7 @@ require_once __DIR__ . '/vendor/humanmmade/elastic-stopwords/plugin.php';
 
 ---
 
-Once you've installed the plugin, add the following constants to your `wp-config.php`:
+Once you've installed the plugin, use the following code to manage stopwords:
 
 ```PHP
 add_filter( 'wp_search_stopwords', function( array $stopwords ) : array {

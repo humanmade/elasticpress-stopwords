@@ -1,0 +1,24 @@
+{
+	"name": "humanmade/elasticpress-stopwords",
+	"description": "WordPress plugin to integrate WordPress stopwords with ElasticPress mapping.",
+	"homepage": "https://github.com/humanmade/elasticpress-stopwords",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name":"Human Made Limited",
+			"email":"support@humanmade.co.uk",
+			"homepage":"http://hmn.md/"
+		}
+	],
+	"support": {
+			"issues": "https://github.com/humanmade/elasticpress-stopwords/issues",
+			"source": "https://github.com/humanmade/elasticpress-stopwords"
+	},
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
